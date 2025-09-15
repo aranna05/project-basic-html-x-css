@@ -1,0 +1,31 @@
+#one{
+    height: 190px;
+    width: 100px;
+    background-color: #000000;
+    padding-left: 50px;
+    padding-top: 10px;
+}
+
+#two{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+
+#three{
+    height: 50px;
+    width: 50px;
+    background-color: yellow;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+
+#four{
+    height: 50px;
+    width: 50px;
+    background-color: green;
+    border-radius: 50%;
+    margin-top: 10px;
+}
